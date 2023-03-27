@@ -9,7 +9,7 @@
 -Steve Jobs
 
 # 👽 About Me:
-As a master of AI student at PDEU, with a motive to learn, experience and to do implement research for further upskilling my abilities in the domain. I always looking for ways to deepen my understanding of AI and apply it in real-world contexts. With personal initiatives and faculty helps started working on some real good projects an research.
+As a M.Tech - Data Science student at PDEU, with a motive to learn, experience and to do implement research for further upskilling my abilities in the domain. I always looking for ways to deepen my understanding of AI and apply it in real-world contexts. With personal initiatives and faculty helps started working on some real good projects an research.
 
 
 # 👨‍💻 I code with:
@@ -19,13 +19,13 @@ As a master of AI student at PDEU, with a motive to learn, experience and to do 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 
 ## 🌐 Connect Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/charulp2499 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/charulp2499) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charulp2499 ) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kinshuk.gaurav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dark_matter_kin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinshuk-gaurav-475870176) 
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Charulp2499&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charulp2499&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Charulp2499&theme=midnight-purple&hide_border=false) -->
+![](https://github-readme-stats.vercel.app/api?username=SUNNY11286&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNNY11286&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=SUNNY11286&theme=midnight-purple&hide_border=false) -->
 
 
 
