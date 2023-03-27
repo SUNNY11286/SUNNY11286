@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=SUNNY11286&&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<h3>my <a href="https://www.w3schools.com">Visit W3Schools.com!</a> weblink</h3> 
+<h3><a href="https://www.w3schools.com">My webpage</a></h3> 
 
 #
 "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."
