@@ -25,7 +25,7 @@ As a M.Tech - Data Science student at PDEU, with a motive to learn, experience a
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SUNNY11286&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=SUNNY11286&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNNY11286&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=SUNNY11286&theme=midnight-purple&hide_border=false) -->
 
